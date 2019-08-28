@@ -1,0 +1,34 @@
+.wrapper {
+	position: fixed;
+	text-align: center;
+    background-color: blueviolet; 
+    color: white;
+
+	
+} 
+
+
+    
+.h1{
+    color: white;
+    font-size: 46px;
+    font-style: italic;
+}
+
+.p{
+    font-size: 20px;
+}
+
+
+
+.container{
+    max-width: 960px;
+    width: 96%
+}
+
+
+
+
+.img {
+        border-radius: 8px;
+}
